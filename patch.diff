@@ -1,0 +1,20 @@
+From b5d1dcdb8d379240c85f95d18979e700859168b2 Mon Sep 17 00:00:00 2001
+From: masinogns <masinogns@gmail.com>
+Date: Tue, 18 Feb 2020 23:41:05 +0900
+Subject: [PATCH] masinogns
+
+---
+ desc_masinogns.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 desc_masinogns.txt
+
+diff --git a/desc_masinogns.txt b/desc_masinogns.txt
+new file mode 100644
+index 0000000..8fa8d69
+--- /dev/null
++++ b/desc_masinogns.txt
+@@ -0,0 +1 @@
++masinogns
+-- 
+2.20.1
+
